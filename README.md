@@ -1,3 +1,7 @@
+# Proyecto Docker Fullstack
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/naoch1/proyecto_docker_fullstack)
+
 # 🚀 Proyecto Fullstack con Docker
 
 Aplicación **React + Spring Boot + MySQL** desplegada con **Docker Compose**.  
