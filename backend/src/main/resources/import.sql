@@ -1,0 +1,15 @@
+insert into users (id, name, last_name, email, age) values( 1, 'Benjamin Ariel Alexander', 'orellana', 'benja@gmail.com', 17);
+insert into users (id, name, last_name, email, age) values( 2, 'gael Marcos Alonso', 'nuñez', 'gael@gmail.com', 10);
+insert into users (id, name, last_name, email, age) values( 3, 'santi', 'romero', 'santi@gmail.com', 3);
+insert into users (id, name, last_name, email, age) values( 4, 'Jocelyn Alejandra', 'orellana', 'toti@gmail.com', 32);
+insert into users (id, name, last_name, email, age) values( 5, 'Evelyn Susana', 'Romero', 'eve@gmail.com', 56);
+insert into users (id, name, last_name, email, age) values( 6, 'Nelson Alejadnro', 'orellana', 'nel@gmail.com', 55);
+insert into users (id, name, last_name, email, age) values( 7, 'Patricio', 'nuñez', 'pato@gmail.com', 32);
+insert into users (id, name, last_name, email, age) values( 8, 'Josefina del carmen', 'chavez', 'carmen@gmail.com', 65);
+insert into users (id, name, last_name, email, age) values( 9, 'misael', 'orellana', 'misael@gmail.com', 82);
+insert into users (id, name, last_name, email, age) values( 10, 'Amaya Paola', 'orellana', 'paola@gmail.com', 54);
+insert into users (id, name, last_name, email, age) values(11, 'Sandra Elizabeth', 'orellana', 'sandra@gmail.com', 56);
+insert into users (id, name, last_name, email, age) values(12, 'Darinka Daniela', 'diaz', 'dari@gmail.com', 23);
+insert into users (id, name, last_name, email, age) values(13, 'Tatiana ', 'ubilla', 'tati@gmail.com', 17);
+insert into users (id, name, last_name, email, age) values(14, 'Nicolas ', 'ubilla', 'nico@gmail.com', 17);
+insert into users (id, name, last_name, email, age) values(15, 'Carlos Alberto', 'romero', 'carlos@gmail.com', 43);

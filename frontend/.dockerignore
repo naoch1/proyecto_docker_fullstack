@@ -2,4 +2,5 @@ node_modules
 build
 .git
 .gitignore
-.DS_Store
+Dockerfile
+docker-compose.yml

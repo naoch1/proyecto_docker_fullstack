@@ -1,0 +1,73 @@
+.contenedor-tabla-clientes {
+    max-height: 300px; /* Ajusta la altura máxima según sea necesario */
+    overflow-y: auto;
+}
+
+.listado-de-cliente-table th {
+    position: sticky;
+    top: 0;
+    background-color: darkcyan; /* Opcional: para que el encabezado se destaque */
+    z-index: 1; /* Opcional: asegura que el encabezado esté por encima del contenido de la tabla */
+}
+
+/*listado-de-cliente-table*/
+
+
+.listado-de-cliente-table {
+    border-collapse: collapse;
+    max-width: 600px;
+    width:  100%  ;
+    margin: 0 auto;
+}
+
+.listado-de-cliente-table th, .listado-de-cliente-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: right;
+}
+
+.listado-de-cliente-table thead tr {
+    background-color: darkcyan;
+}
+
+.listado-de-cliente-table th {
+    text-align: center;
+}
+
+.listado-de-cliente-table tfoot td {
+    text-align: center;
+    background-color: darkcyan;
+}
+
+nav {
+    width: 100%;
+    min-width: 500px;
+    box-sizing: border-box;
+    /* Otros estilos para tu barra de navegación */
+}
+.mi-barra-de-navegacion{
+    text-align: center;
+    background: darkcyan;
+
+}
+
+.cliente-seleccionado-table {
+    border-collapse: collapse;
+    max-width: 600px;
+    width:  100%  ;
+    margin: 0 auto;
+}
+
+.cliente-seleccionado-table th {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: right;
+    background-color: darkcyan;
+}
+
+.cliente-seleccionado-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: right;
+}
+

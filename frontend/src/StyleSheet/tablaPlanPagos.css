@@ -1,0 +1,26 @@
+.plan-pagos-table {
+    border-collapse: collapse;
+    max-width: 650px;
+    width:  100%  ;
+    margin: 0 auto;
+}
+
+.plan-pagos-table th, .plan-pagos-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: right;
+}
+
+.plan-pagos-table thead tr {
+    background-color: darkcyan;
+}
+
+.plan-pagos-table th {
+    text-align: center;
+
+}
+
+.plan-pagos-table tfoot td {
+    text-align: center;
+    background-color: darkcyan;
+}

@@ -1,0 +1,45 @@
+.Antecedentes-del-credito-table {
+    border-collapse: collapse;
+    max-width: 600px;
+    width:  100%  ;
+    margin: 0 auto;
+}
+
+.Antecedentes-del-credito-table th, .Antecedentes-del-credito-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: right;
+}
+
+.Antecedentes-del-credito-table thead tr {
+    background-color: darkorange;
+}
+
+.Antecedentes-del-credito-table th {
+    text-align: center;
+
+}
+nav {
+    width: 100%;
+    min-width: 500px;
+    box-sizing: border-box;
+    /* Otros estilos para tu barra de navegación */
+
+}
+.mi-barra-de-navegacion{
+    background: darkcyan;
+    margin:0 auto;
+    border-collapse: collapse;
+    max-width: 600px;
+    width:  100%  ;
+    margin: 0 auto;
+
+}
+
+.tasa-plazo-table {
+    border-collapse: collapse;
+    max-width: 600px;
+    width:  100%  ;
+    margin: 0 auto;
+    background-color: darkorange;
+}
